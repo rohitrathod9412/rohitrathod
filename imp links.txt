@@ -1,0 +1,18 @@
+for contact me link
+
+https://app.emailmeform.com/  
+
+for gmap generator 
+
+
+http://www.regiohelden.de/google-maps/index_en.html?gclid=CJXb_9zR_KsCFQl76wodgRv2kQ
+
+ example :
+
+
+<div style="width: 600px"><iframe width="600" height="300" src="http://regiohelden.de/google-maps/map_en.php?width=600&amp;height=300&amp;hl=en&amp;q=KLE%20Technological%20university%20hubli+(docotor)&amp;ie=UTF8&amp;t=h&amp;z=17&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="http://www.regiohelden.de/google-maps/">Google Maps Generator</a> von <a href="http://www.regiohelden.de/">RegioHelden</a></iframe><br /><span style="font-size: 9px;"><a href="http://www.regiohelden.de/google-maps/" style="font-size: 9px;">Google Maps Generator</a> by <a href="http://www.regiohelden.de/" style="font-size: 9px;">RegioHelden</a></span></div>
+
+
+for freedomain
+
+https://my.freenom.com
